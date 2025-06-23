@@ -1,4 +1,4 @@
 # DL_Tutorial
-practicals 
+### practicals content 
 
 ## Introduction to Neural Networks
